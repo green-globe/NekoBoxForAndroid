@@ -1,4 +1,4 @@
-name: Release Build
+name: Build AAR
 
 on:
   workflow_dispatch:
